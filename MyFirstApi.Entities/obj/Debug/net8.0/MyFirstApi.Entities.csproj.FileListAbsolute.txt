@@ -1,0 +1,15 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/bin/Debug/net8.0/MyFirstApi.Entities.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/bin/Debug/net8.0/MyFirstApi.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/bin/Debug/net8.0/MyFirstApi.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/refint/MyFirstApi.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/ref/MyFirstApi.Entities.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/bin/Debug/net8.0/MyFirstApi.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/bin/Debug/net8.0/MyFirstApi.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.csproj.AssemblyReference.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/Debug/net8.0/MyFirstApi.Entities.csproj.CopyComplete

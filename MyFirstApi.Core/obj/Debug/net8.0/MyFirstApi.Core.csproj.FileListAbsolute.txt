@@ -1,0 +1,12 @@
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/bin/Debug/net8.0/MyFirstApi.Core.deps.json
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/bin/Debug/net8.0/MyFirstApi.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/bin/Debug/net8.0/MyFirstApi.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.AssemblyInfoInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.AssemblyInfo.cs
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.csproj.CoreCompileInputs.cache
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/refint/MyFirstApi.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.pdb
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/ref/MyFirstApi.Core.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/Debug/net8.0/MyFirstApi.Core.csproj.AssemblyReference.cache

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1vKXqBJQ5VjyG8otGFMaeCmRIulBoLVvEMh+sRAMrO0=",
+  "Source": "MyFirstApi.Api",
+  "BasePath": "_content/MyFirstApi.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

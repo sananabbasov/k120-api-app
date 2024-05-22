@@ -1,0 +1,398 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Api/MyFirstApi.Api.csproj": {}
+  },
+  "projects": {
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Api/MyFirstApi.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Api/MyFirstApi.Api.csproj",
+        "projectName": "MyFirstApi.Api",
+        "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Api/MyFirstApi.Api.csproj",
+        "packagesPath": "/Users/sanan/.nuget/packages/",
+        "outputPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/MyFirstApi.Business.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/MyFirstApi.Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/MyFirstApi.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/MyFirstApi.Business.csproj",
+        "projectName": "MyFirstApi.Business",
+        "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/MyFirstApi.Business.csproj",
+        "packagesPath": "/Users/sanan/.nuget/packages/",
+        "outputPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Business/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj"
+              },
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/MyFirstApi.DataAccess.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/MyFirstApi.DataAccess.csproj"
+              },
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.9.1, )"
+            },
+            "Serilog": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Serilog.Sinks.PostgreSQL": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj",
+        "projectName": "MyFirstApi.Core",
+        "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj",
+        "packagesPath": "/Users/sanan/.nuget/packages/",
+        "outputPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/MyFirstApi.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/MyFirstApi.DataAccess.csproj",
+        "projectName": "MyFirstApi.DataAccess",
+        "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/MyFirstApi.DataAccess.csproj",
+        "packagesPath": "/Users/sanan/.nuget/packages/",
+        "outputPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.DataAccess/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj"
+              },
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj",
+        "projectName": "MyFirstApi.Entities",
+        "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/MyFirstApi.Entities.csproj",
+        "packagesPath": "/Users/sanan/.nuget/packages/",
+        "outputPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Entities/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/sanan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj": {
+                "projectPath": "/Users/sanan/Desktop/Projects/Compar Academy/K120/Api/MyFirstApi/MyFirstApi.Core/MyFirstApi.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
